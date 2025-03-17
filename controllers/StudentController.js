@@ -1,6 +1,6 @@
 const {studentModel} = require("../Models/StudentModels");
 const {LetterModel} = require("../Models/LetterModel");
-const sendMail = require("./../emailService")
+const sendMail = require("../emailService")
 
 
 

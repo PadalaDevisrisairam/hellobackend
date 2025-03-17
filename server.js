@@ -1,4 +1,4 @@
-const {app} =require("./app.js");
+const {app} =require("./backend/app.js");
 const mongoose = require("mongoose")
 
 mongoose.connect("mongodb+srv://Devisri123:devi+123@cluster0.vduzx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
